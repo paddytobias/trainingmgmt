@@ -31,7 +31,7 @@ To date, we have trained:
 +++
 <img src="assets/image/compute_courses.png" class="center">
 +++
-<img src="assets/image/software-courses.png)" class="center">
+<img src="assets/image/software-courses.png") class="center">
 +++
 ![training](assets/image/intersect_training_20180514.png)
 ---
