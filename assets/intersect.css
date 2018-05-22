@@ -20,9 +20,6 @@ body {
   font-weight: normal;
   color: #fff; }
 
-.img {
-  width: 300px; }
-  
 ::selection {
   color: #fff;
   background: #f3980c;
@@ -259,29 +256,27 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
-.img section img {
+.reveal section img {
   margin: 15px 0px;
-  
+ background: rgba(220, 255, 255, 0.8);
+ max-height:50%;
+ max-width:50%;
  /* border: 4px solid #fff; */
- /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */} 
+ /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); } */
 
-.img section img.plain {
+.reveal section img.plain {
   border: 0;
   box-shadow: none; }
 
-.img a img {
+.reveal a img {
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
-  transition: all .15s linear; 
-  max-height:100%;
-  max-width: 100%;
- background: rgba(0, 0, 0, 10);
- }
+  transition: all .15s linear; }
 
-.img a:hover img {
+.reveal a:hover img {
   /*background: rgba(255, 255, 255, 0.2); */
   /*border-color: #ff9300;*/
-  /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);*/ }
+  /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }*/
 
 /*********************************************
  * NAVIGATION CONTROLS
