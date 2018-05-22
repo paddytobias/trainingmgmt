@@ -27,12 +27,11 @@ To date, we have trained:
 * across **4** states and territories
 * covering **17** unique courses
 +++
-![data](assets/image/data_courses.png)
+<img src="assets/image/data_courses.png" class="center">
 +++
-![compute](assets/image/compute_courses.png)
+<img src="assets/image/compute_courses.png" class="center">
 +++
-![software-courses](assets/image/software-courses.png)
-
+<img src="assets/image/software-courses.png)" class="center">
 +++
 ![training](assets/image/intersect_training_20180514.png)
 ---
