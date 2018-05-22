@@ -27,8 +27,12 @@ To date, we have trained:
 * across **4** states and territories
 * covering **17** unique courses
 +++
+![data](assets/image/data_courses.png)
++++
+![compute](assets/image/compute_courses.png)
++++
+![software-courses](assets/image/software-courses.png)
 
-<iframe class="stretch" data-src="https://intersect.org.au/energy/training"></iframe>
 +++
 ![training](assets/image/intersect_training_20180514.png)
 ---
