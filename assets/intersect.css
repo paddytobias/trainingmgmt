@@ -114,7 +114,10 @@ body {
 .reveal em {
   font-style: italic; }
 
-.reveal ol,
+.reveal ol, {
+  display: inline-block;
+  text-align: left;
+  margin: 0 0 0 1em; }
 .reveal dl,
 .reveal ul {
   display: inline-block;
