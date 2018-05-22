@@ -27,11 +27,19 @@ To date, we have trained:
 * across **4** states and territories
 * covering **17** unique courses
 +++
+## Data courses
 <img src="assets/image/data_courses.png" align = "middle">
 +++
+## Computing courses
 <img src="assets/image/compute_courses.png" align = "middle">
 +++
+## Software courses
 <img src="assets/image/software-courses.png") align = "middle">
++++
+## Other engagements...
+* HDR program
+* Information sessions
+* Drop-in (or "Hacky") sessions
 +++
 ![training](assets/image/intersect_training_20180514.png)
 ---
