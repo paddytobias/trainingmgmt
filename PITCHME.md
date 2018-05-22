@@ -1,13 +1,21 @@
 @title[Introduction]
 
 
-# Managing training content and delivery
+# Managing engagement content and delivery
 
 <p><div align=center>Dr Paddy Tobias, eResearch Analyst</div></p>
 
 <p><div align=center>Intersect Australia</div></p>
 
 
+---
+## Firstly, some questions...
+1. How does UNE Library manage group engagement? |
+2. What sessions does the Library run? |
+3. What type of supporting material is there? |
+4. How are these materials managed and kept current? |
+5. How are sessions delivered? |
+6. How are materials distributed? |
 ---
 ## Intersect
 * Non-profit eResearch technology company
