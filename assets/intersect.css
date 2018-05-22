@@ -16,11 +16,13 @@ body {
 
 .reveal {
   font-family: "Pontano Sans", "Roboto", "Source Sans Pro", Helvetica, sans-serif;
-  width: 300px;
   font-size: 42px;
   font-weight: normal;
   color: #fff; }
 
+.img {
+  width: 300px; }
+  
 ::selection {
   color: #fff;
   background: #f3980c;
@@ -257,7 +259,7 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
-.reveal section img {
+.img section img {
   margin: 15px 0px;
   max-height:100%;
   max-width: 100%;
@@ -265,19 +267,19 @@ body {
  /* border: 4px solid #fff; */
  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */} 
 
-.reveal section img.plain {
+.img section img.plain {
   border: 0;
   box-shadow: none; }
 
-.reveal a img {
+.img a img {
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;
   transition: all .15s linear; }
 
-.reveal a:hover img {
+.img a:hover img {
   /*background: rgba(255, 255, 255, 0.2); */
   /*border-color: #ff9300;*/
-  /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }*/
+  /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);*/ }
 
 /*********************************************
  * NAVIGATION CONTROLS
