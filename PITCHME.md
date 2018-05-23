@@ -89,18 +89,20 @@ To ...
 
 ## GitHub Pages
 ... to standardise engagement
-e.g., Intersect's [Qualtrics course - UNDER DEV](https://intersectaustralia.github.io/surveys-with-qualtrics/)
+
+e.g., [Example](https://intersectaustralia.github.io/surveys-with-qualtrics/)
 
 * renders text files (written in Markdown) into a website... free! |
 * creates a website from a GitHub repository... free! |
 * powered by Jekyll, a static site generator |
 * remote themes, to standardise styling with CSS |
-* very flexible and lots of options: https://github.com/jekyll/jekyll/wiki/Themes |
+* very flexible and lots of options:|
+* https://github.com/jekyll/jekyll/wiki/Themes |
 
 
 +++
 
-## GitHub
+## [GitHub](https://github.com/IntersectAustralia/surveys-with-qualtrics)
 ... for content management
 
 * version control |
@@ -108,7 +110,7 @@ e.g., Intersect's [Qualtrics course - UNDER DEV](https://intersectaustralia.gith
 * project management plug-ins |
 * promotes Open Data! |
 
-e.g., [GitHub repository](https://github.com/IntersectAustralia/surveys-with-qualtrics)
+
 
 +++
 ## GitPitch
@@ -118,7 +120,7 @@ e.g., [GitHub repository](https://github.com/IntersectAustralia/surveys-with-qua
 * loads of features for the presenter
 * can sit within GitHub repo so everything is contained
 
-e.g., [GitPitch presentation](https://gitpitch.com/intersectAustralia/surveys-with-qualtrics#/)
+e.g., [Example](https://gitpitch.com/intersectAustralia/surveys-with-qualtrics#/)
 
 *
 Note:
