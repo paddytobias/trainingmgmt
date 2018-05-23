@@ -1,18 +1,17 @@
 @title[Introduction]
 
 
-# Managing engagement content and delivery
+# Managing group engagement
 
 <p><div align=center>Dr Paddy Tobias, eResearch Analyst</div></p>
 
 <p><div align=center>Intersect Australia</div></p>
 
-<iframe class = "center" data-src="https://instagram.com/p/BjGzDGzBs3D/"></iframe>
 
 Note:
 * talk about the process Intersect is going through to professionalise our training delivery, and why?
-* As the university library is changing in its role and its clientele are changing (I don't think that's too controversial to say), I imagine there is some motivations in this library to effectively engage your primary stakeholders
-* well Intersect is going through a similar process at the moment, about how to provide service delivery most effectively!
+* As university libraries are changing in their role along with the changing needs of their clientele, I imagine there is some motivation in this library to effectively engage
+* well Intersect is going through a similar process at the moment, about how to provide service delivery, specifically to do with our training, most effectively!
 * for intersect, our main offering to universities has been our training program. we are the biggest training provider specifically for researchers, in Aust, a position which we have fallen into, rather than by grand strategy
 
 ---
@@ -97,11 +96,10 @@ To ...
 
 * renders text files (written in Markdown) into a website... free! |
 * creates a website from a GitHub repository... free! |
-* powered by Jekyll, a static site generator |
-* remote themes, to standardise styling with CSS |
-* very flexible and lots of options:|
+* powered by Jekyll, a static, open source site generator |
+* allows remote themes, to standardise styling with CSS |
+* very flexible and lots of pre-built options:|
 * https://github.com/jekyll/jekyll/wiki/Themes |
-
 
 +++
 
