@@ -70,12 +70,13 @@ Our training covers:
 
 ---
 ## Common challenges
-* Keeping material up-to-date
-* ... and "fresh"
-* Co-writing courses
-* Consistency of presentation and delivery
-* In-training engagement
-* Post-training distribution
+
+* Keeping material up-to-date |
+* ... and "fresh" |
+* Co-writing courses |
+* Consistency of presentation and delivery |
+* In-training engagement |
+* Post-training distribution |
 
 ---
 
@@ -87,10 +88,10 @@ To ...
 
 ---
 
-## GitHub Pages
+## [GitHub Pages](https://intersectaustralia.github.io/surveys-with-qualtrics/)
 ... to standardise engagement
 
-e.g., [Example](https://intersectaustralia.github.io/surveys-with-qualtrics/)
+
 
 * renders text files (written in Markdown) into a website... free! |
 * creates a website from a GitHub repository... free! |
@@ -110,17 +111,14 @@ e.g., [Example](https://intersectaustralia.github.io/surveys-with-qualtrics/)
 * project management plug-ins |
 * promotes Open Data! |
 
-
-
 +++
-## GitPitch
+## [GitPitch](https://gitpitch.com/intersectAustralia/surveys-with-qualtrics#/)
 ... presentations
 
 * remote themes, again standardising styling
 * loads of features for the presenter
 * can sit within GitHub repo so everything is contained
 
-e.g., [Example](https://gitpitch.com/intersectAustralia/surveys-with-qualtrics#/)
 
 *
 Note:
