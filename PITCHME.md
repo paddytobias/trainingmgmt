@@ -7,6 +7,8 @@
 
 <p><div align=center>Intersect Australia</div></p>
 
+<iframe class = "center" data-src="https://instagram.com/p/BjGzDGzBs3D/"></iframe>
+
 Note:
 * talk about the process Intersect is going through to professionalise our training delivery, and why?
 * As the university library is changing in its role and its clientele are changing (I don't think that's too controversial to say), I imagine there is some motivations in this library to effectively engage your primary stakeholders
