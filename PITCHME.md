@@ -26,7 +26,7 @@ Note:
 * Non-profit eResearch technology company
 * Formed in 2008 with state and federal grants
 * And investment by NSW Universities
-* Jointly owned and directed by a consortium of **12** Australian Universities (our Members)
+* Directed by a consortium of **12** Australian universities (our "Members")
 * With **4** affiliate members
 * Operating across **4** states and territories
 
@@ -102,7 +102,6 @@ To ...
 * https://github.com/jekyll/jekyll/wiki/Themes |
 
 +++
-
 ## [GitHub](https://github.com/IntersectAustralia/surveys-with-qualtrics)
 ... for content management
 
@@ -113,13 +112,11 @@ To ...
 
 +++
 ## [GitPitch](https://gitpitch.com/intersectAustralia/surveys-with-qualtrics#/)
-... presentations
+... for presentations
 
-* remote themes, again standardising styling
+* remote themes... again standardising styling
 * loads of features for the presenter
 * can sit within GitHub repo so everything is contained
 
-
-*
 Note:
 And if that wasn't enough!
