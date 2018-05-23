@@ -10,11 +10,10 @@
 
 ---
 ## Firstly, some questions...
-* How does UNE Library manage group engagement? |
-* What sessions does the Library run? |
+* What group sessions does the Library run? By whom? |
+* How are sessions delivered? |
 * What type of supporting material is there? |
 * How are these materials managed and kept current? |
-* How are sessions delivered? |
 * How are materials distributed? |
 ---
 ## Intersect
@@ -30,10 +29,25 @@
 
 To date, we have trained:
 * **7837** researchers
-* in **742** classes
-* at **14** institutions
+* in **742** trainings
+
++++
+
+![training](assets/image/intersect_training_20180514.png)
+
+Notes:
+And.. these numbers are growing year on year
+* 28 % increase on trainings '16-'17
+* 45% increase on attendance '16-'17
+---
+
+# Course administration
+Our training covers:
+* **17** unique courses (soon to be *19*)
+* ran at **14** institutions
 * across **4** states and territories
-* covering **17** unique courses
+* with **20+** trainers
+
 +++
 ## Data courses
 <img src="assets/image/data_courses.png" align = "middle">
@@ -47,7 +61,12 @@ To date, we have trained:
 ## Other engagements...
 * HDR program
 * Information sessions
-* Drop-in (or "Hacky") sessions
-+++
-![training](assets/image/intersect_training_20180514.png)
+* Drop-in sessions (aka "Hacky Hour")
+
 ---
+## Common challenges
+* Keeping up-to-date
+* "Freshness"
+* Consistency
+* In-training engagement
+* Post-training distribution
