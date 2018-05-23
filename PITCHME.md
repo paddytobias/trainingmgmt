@@ -35,7 +35,7 @@ To date, we have trained:
 
 ![training](assets/image/intersect_training_20180514.png)
 
-Notes:
+Note:
 And.. these numbers are growing year on year
 * 28 % increase on trainings '16-'17
 * 45% increase on attendance '16-'17
@@ -65,8 +65,8 @@ Our training covers:
 
 ---
 ## Common challenges
-* Keeping up-to-date
-* "Freshness"
-* Consistency
+* Keeping material up-to-date
+* ... and "fresh"
+* Consistency of presentation and delivery
 * In-training engagement
 * Post-training distribution
