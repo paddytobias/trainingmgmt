@@ -120,3 +120,6 @@ To ...
 
 Note:
 And if that wasn't enough!
+---
+
+![image](assets/image/thats_all_folks.png)
