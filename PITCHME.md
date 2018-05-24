@@ -108,7 +108,7 @@ To ...
 * version control |
 * manages collaborative writing |
 * project management plug-ins |
-* promotes Open Data! |
+* promotes Open Access and Open Science! |
 
 +++
 ## [GitPitch](https://gitpitch.com/intersectAustralia/surveys-with-qualtrics#/)
